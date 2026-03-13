@@ -1,0 +1,25 @@
+{
+  "name": "simple-messaging-thing",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/adrian-kolodziej/simple-messaging-thing#readme",
+  "bugs": {
+    "url": "https://github.com/adrian-kolodziej/simple-messaging-thing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian-kolodziej/simple-messaging-thing.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "backend/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.3.0"
+  }
+}
